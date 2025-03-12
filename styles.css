@@ -1,0 +1,50 @@
+ h1{
+  color: #C9AB81;
+  font-weight: 500;
+  font-family: "Dancing script";
+  font-size: 70px;
+text-align: center;
+
+}
+
+body{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #080808;
+}
+p {
+  color: #fff;
+}
+li{
+  color: #C9AB81;
+} 
+
+ h2 {
+  font-size: 40px;
+  color: #B4AE94;
+ }
+
+ p {
+  margin-right: 20px;
+}
+.col-2{
+  display: flex;
+  justify-content: space-between;
+  justify-items: end;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+}
+.col-2{
+  margin-top: 20px;
+}
+.col-3{
+  margin-top: 20px;
+  display: flex;
+  text-align:ri;
+}
+
+
+ 
+  
